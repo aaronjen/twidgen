@@ -1,4 +1,4 @@
-module github.com/aaron/twidgen
+module github.com/aaronjen/twidgen
 
 go 1.15
 
